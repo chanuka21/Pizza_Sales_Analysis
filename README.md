@@ -19,7 +19,10 @@ Excited to share my interactive Power BI dashboard built to analyze and visualiz
 By transforming raw Excel data into engaging, actionable visuals, this dashboard offers a clear view of what drives performance and profit in the pizza business. A great step toward smarter restaurant analytics and decision-making!
 
 
-![Pizza Dashboard](Screenshot(109).png)
+## 📊 Pizza Sales Performance Dashboard
+
+![Pizza Sales Dashboard](dashboard1.png)
+
 
 
 
