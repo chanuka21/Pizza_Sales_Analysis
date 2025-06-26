@@ -1,14 +1,20 @@
- #Pizza Sales Analysis with Power BI 🍕📊
+ # Pizza Sales Analysis with Power BI 🍕📊
 
 Excited to share my interactive Power BI dashboard built to analyze and visualize pizza sales performance across categories, sizes, and order times. This project dives deep into customer behavior and operational trends using real-world pizza order data to support data-driven decisions in the food industry.
 
-##🔍 Key Features:
+## 🔍 Key Features:
 ✅ Total Revenue, Order Count & Average Order Value Overview 💰
+
 ✅ Sales Breakdown by Pizza Category (Classic, Veggie, Chicken, etc.) 🍕
+
 ✅ Best & Worst Selling Pizzas by Revenue and Quantity 📈
+
 ✅ Time-Based Sales Trends (Hourly, Daily, Weekly Patterns) ⏱️
+
 ✅ Dynamic Filtering by Pizza Type, Size, and Order Date 📊
+
 ✅ Interactive KPI Cards, Slicers, and Drill-Through Reports 🎛️
+
 
 By transforming raw Excel data into engaging, actionable visuals, this dashboard offers a clear view of what drives performance and profit in the pizza business. A great step toward smarter restaurant analytics and decision-making!
 
