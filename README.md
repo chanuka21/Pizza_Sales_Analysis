@@ -24,6 +24,7 @@ By transforming raw Excel data into engaging, actionable visuals, this dashboard
 ![Pizza Sales Dashboard](dashboard1.png)
 
 
+![Pizza Sales Dashboard](dashboard2.png)
 
 
 • Developed an interactive Power BI dashboard using historical pizza order data to analyze key business metrics such as total revenue, order quantity, and average order value.
